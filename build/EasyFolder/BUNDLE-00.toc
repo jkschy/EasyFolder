@@ -1,0 +1,1 @@
+([('EasyFolder', '/Users/him/Repos/easyFolder/dist/EasyFolder', 'EXECUTABLE')],)
